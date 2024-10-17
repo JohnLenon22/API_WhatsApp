@@ -17,4 +17,3 @@ POST /send-group-message
     "message": "Mensagem para o grupo"
 }
 
-*/
