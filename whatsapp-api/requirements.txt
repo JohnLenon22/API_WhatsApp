@@ -1,0 +1,21 @@
+# mkdir whatsapp-api
+# cd whatsapp-api
+# npm init -y
+# npm install whatsapp-web.js qrcode-terminal express
+
+# /*
+# POST /send-message
+# {
+#   "number": "558899887766",
+#   "message": "Mensagem automática para o grupo!",
+#   "interval": 60
+# }
+
+
+# POST /send-group-message
+# {
+#   "groupId": "1234567890-12345678@g.us",
+#   "message": "Mensagem automática para o grupo!",
+#   "interval": 60
+# }
+
